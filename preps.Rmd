@@ -1,0 +1,26 @@
+---
+title: "Pre-course preparations"
+author: "Samuel Lippl"
+date: "8 October 2018"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Time scale
+
+We should be able to start in week 2. If we do two lectures à two hours a week, we will have established some groundwork by the end of the first term. This time scale critically depends on two factors: 1) to get the lengthy preparations out of the way, 2) find a canonical approach, i. e. tidyverse. 1) specifically applies to contacting DataCamp.
+
+* 2/1: Introduction and philosophy of R
+* 2/2: Intro to R
+* 3: Intermediate R
+
+Topics afterwards:
+
+* 4: reading in data and looking up info and version control with Github
+* 5/1: `dplyr`: Manipulating and joining data frames
+* 5-6: data visualization with `ggplot2` and `gganimate` (focus on colour scales)
+* 7: Reporting with R Markdown and `bookdown`
+* 8: Questions or wish topic etc.
