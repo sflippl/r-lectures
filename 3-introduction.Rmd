@@ -213,7 +213,7 @@ I want to
 
 ## Further reading
 
-- R4DS, ch. 2-4, 6, 8
-- `ggplot2`: https://ggplot2.tidyverse.org/
-- [Introduction to the grammar of graphics](http://vita.had.co.nz/papers/layered-grammar.pdf)
-- these slides can be found on github.com/sflippl/r-lectures
+> - R4DS, ch. 2-4, 6, 8
+> - `ggplot2`: https://ggplot2.tidyverse.org/
+> - [Introduction to the grammar of > graphics](http://vita.had.co.nz/papers/layered-grammar.pdf)
+> - these slides can be found on github.com/sflippl/r-lectures
